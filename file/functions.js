@@ -53,7 +53,7 @@ function timeElapse(date) {
   if (seconds < 10) {
     seconds = "0" + seconds;
   }
-  var result = "26th January 2002";
+  var result = "02 March 1995";
   $("#clock").html(result);
 
   var text = "THE WORLD JUST GOT LUCKIER SINCE ";
